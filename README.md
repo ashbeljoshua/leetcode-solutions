@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Tree
 |  |
