@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
