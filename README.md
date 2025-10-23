@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
