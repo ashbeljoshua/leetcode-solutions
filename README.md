@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
