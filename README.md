@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
