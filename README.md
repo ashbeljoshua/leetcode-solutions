@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0091-decode-ways) |
 ## Backtracking
@@ -88,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0066-plus-one) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
