@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
+## Counting
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
