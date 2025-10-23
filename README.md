@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0066-plus-one) |
 ## Combinatorics
@@ -113,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
