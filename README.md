@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
