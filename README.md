@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Two Pointers
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
