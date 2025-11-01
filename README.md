@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
