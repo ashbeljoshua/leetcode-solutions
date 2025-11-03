@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0155-min-stack) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Counting
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
