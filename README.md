@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
 ## Counting
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
