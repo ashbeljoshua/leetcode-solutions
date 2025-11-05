@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -235,8 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
