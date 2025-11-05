@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
