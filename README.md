@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
 | ------- |
