@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/2139-detect-squares) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
