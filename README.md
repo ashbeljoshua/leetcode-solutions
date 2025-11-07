@@ -94,6 +94,7 @@ A collection of LeetCode questions covering all dsa patterns!
 | [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0744-network-delay-time) |
 ## String Matching
 |  |
 | ------- |
@@ -210,10 +211,12 @@ A collection of LeetCode questions covering all dsa patterns!
 | [0130-surrounded-regions](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1127-last-stone-weight](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions covering all dsa patterns!
 | ------- |
 | [0207-course-schedule](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions covering all dsa patterns!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ashbeljoshua/leetcode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
